@@ -1,5 +1,9 @@
 
 /* Your CSS Code here. */
-table,td {
+table{
   border:1px solid gray;
+}
+td, th {
+  text-align: center;
+  vertical-align: middle;
 }
